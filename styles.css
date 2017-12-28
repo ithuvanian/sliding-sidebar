@@ -59,7 +59,7 @@ html, body {
   /*corresponds to menu bars*/
   width: 64px;
   height: 64px;
-  /**/
+
   z-index: 1000;
   top: 64px;
   left: 64px;
@@ -81,7 +81,7 @@ html, body {
   top: 30px;
   width: 36px;
   height: 4px;
-  /**/
+
   background: #222;
   transition: all .3s cubic-bezier(.22, .39, .26, 1.6);
 }
